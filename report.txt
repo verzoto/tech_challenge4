@@ -1,0 +1,1124 @@
+
+
+Frame 0: Quantidade de faces: 4
+Face 1: Emoçao dominante: neutral
+Face 2: Emoçao dominante: sad
+Face 3: Emoçao dominante: fear
+Face 4: Emoçao dominante: angry
+
+
+Frame 15: Quantidade de faces: 4
+Face 1: Emoçao dominante: neutral
+Face 2: Emoçao dominante: sad
+Face 3: Emoçao dominante: neutral
+Face 4: Emoçao dominante: sad
+
+
+Frame 30: Quantidade de faces: 4
+Face 1: Emoçao dominante: neutral
+Face 2: Emoçao dominante: sad
+Face 3: Emoçao dominante: neutral
+Face 4: Emoçao dominante: sad
+Pose: Mao esquerda no rosto
+
+
+Frame 45: Quantidade de faces: 4
+Face 1: Emoçao dominante: neutral
+Face 2: Emoçao dominante: neutral
+Face 3: Emoçao dominante: neutral
+Face 4: Emoçao dominante: sad
+Pose: Mao direita no rosto
+
+
+Frame 60: Quantidade de faces: 4
+Face 1: Emoçao dominante: neutral
+Face 2: Emoçao dominante: sad
+Face 3: Emoçao dominante: neutral
+Face 4: Emoçao dominante: sad
+Pose: Mao direita no rosto
+
+
+Frame 75: Quantidade de faces: 4
+Face 1: Emoçao dominante: neutral
+Face 2: Emoçao dominante: neutral
+Face 3: Emoçao dominante: neutral
+Face 4: Emoçao dominante: angry
+Pose: Mao direita no rosto
+
+
+Frame 90: Quantidade de faces: 4
+Face 1: Emoçao dominante: neutral
+Face 2: Emoçao dominante: neutral
+Face 3: Emoçao dominante: sad
+Face 4: Emoçao dominante: angry
+Pose: Mao direita no rosto
+
+
+Frame 105: Quantidade de faces: 4
+Face 1: Emoçao dominante: neutral
+Face 2: Emoçao dominante: sad
+Face 3: Emoçao dominante: neutral
+Face 4: Emoçao dominante: neutral
+Pose: Mao direita no rosto
+
+
+Frame 120: Quantidade de faces: 4
+Face 1: Emoçao dominante: angry
+Face 2: Emoçao dominante: neutral
+Face 3: Emoçao dominante: neutral
+Face 4: Emoçao dominante: angry
+
+
+Frame 135: Quantidade de faces: 4
+Face 1: Emoçao dominante: neutral
+Face 2: Emoçao dominante: sad
+Face 3: Emoçao dominante: sad
+Face 4: Emoçao dominante: angry
+Pose: Mao direita no rosto
+
+
+Frame 150: Quantidade de faces: 4
+Face 1: Emoçao dominante: neutral
+Face 2: Emoçao dominante: sad
+Face 3: Emoçao dominante: sad
+Face 4: Emoçao dominante: sad
+Pose: Mao esquerda levantada
+Pose: Mao direita levantada
+Pose: Mao direita no rosto
+
+
+Frame 165: Quantidade de faces: 4
+Face 1: Emoçao dominante: neutral
+Face 2: Emoçao dominante: sad
+Face 3: Emoçao dominante: sad
+Face 4: Emoçao dominante: sad
+
+
+Frame 180: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 195: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+Pose: Mao esquerda levantada
+
+
+Frame 210: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+Pose: Mao esquerda levantada
+
+
+Frame 225: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 240: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 255: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 270: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 285: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 300: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 315: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 330: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 345: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 555: Quantidade de faces: 1
+Face 1: Emoçao dominante: surprise
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 570: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 585: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+Pose: Mao direita no rosto
+
+
+Frame 600: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+Pose: Mao esquerda levantada
+Pose: Mao direita levantada
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 615: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+Pose: Mao direita levantada
+Pose: Mao direita no rosto
+
+
+Frame 630: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 645: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+Pose: Mao esquerda no rosto
+
+
+Frame 660: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+
+
+Frame 675: Quantidade de faces: 1
+Face 1: Emoçao dominante: angry
+Pose: Mao esquerda no rosto
+
+
+Frame 690: Quantidade de faces: 1
+Face 1: Emoçao dominante: fear
+Pose: Mao esquerda levantada
+Pose: Mao direita levantada
+Pose: Mao esquerda no rosto
+
+
+Frame 705: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+Pose: Mao esquerda no rosto
+
+
+Frame 720: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 735: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 750: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+
+
+Frame 765: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+
+
+Frame 780: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 795: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 810: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+
+
+Frame 825: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 840: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 855: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 870: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 885: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 900: Quantidade de faces: 1
+Face 1: Emoçao dominante: surprise
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 915: Quantidade de faces: 1
+Face 1: Emoçao dominante: surprise
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 930: Quantidade de faces: 1
+Face 1: Emoçao dominante: surprise
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 945: Quantidade de faces: 1
+Face 1: Emoçao dominante: surprise
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 960: Quantidade de faces: 1
+Face 1: Emoçao dominante: fear
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 975: Quantidade de faces: 1
+Face 1: Emoçao dominante: surprise
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 990: Quantidade de faces: 1
+Face 1: Emoçao dominante: fear
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 1005: Quantidade de faces: 1
+Face 1: Emoçao dominante: surprise
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 1020: Quantidade de faces: 1
+Face 1: Emoçao dominante: surprise
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 1035: Quantidade de faces: 1
+Face 1: Emoçao dominante: fear
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 1050: Quantidade de faces: 1
+Face 1: Emoçao dominante: surprise
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 1065: Quantidade de faces: 1
+Face 1: Emoçao dominante: fear
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 1080: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+Pose: Mao direita levantada
+Pose: Mao esquerda no rosto
+
+
+Frame 1095: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+Pose: Mao direita levantada
+Pose: Mao esquerda no rosto
+
+
+Frame 1110: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+Pose: Mao direita levantada
+Pose: Mao esquerda no rosto
+
+
+Frame 1125: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+Pose: Mao direita levantada
+Pose: Mao esquerda no rosto
+
+
+Frame 1140: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+Pose: Mao direita levantada
+Pose: Mao esquerda no rosto
+
+
+Frame 1155: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+Pose: Mao direita levantada
+Pose: Mao esquerda no rosto
+
+
+Frame 1170: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+Pose: Mao direita levantada
+Pose: Mao esquerda no rosto
+
+
+Frame 1185: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+Pose: Mao direita levantada
+Pose: Mao esquerda no rosto
+
+
+Frame 1200: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+Pose: Mao direita levantada
+Pose: Mao esquerda no rosto
+
+
+Frame 1215: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+Pose: Mao direita levantada
+Pose: Mao esquerda no rosto
+
+
+Frame 1230: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+Pose: Mao direita levantada
+Pose: Mao esquerda no rosto
+
+
+Frame 1245: Quantidade de faces: 1
+Face 1: Emoçao dominante: fear
+Pose: Mao direita levantada
+Pose: Mao esquerda no rosto
+
+
+Frame 1260: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 1275: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 1290: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 1305: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+Pose: Mao direita levantada
+Pose: Mao esquerda no rosto
+
+
+Frame 1320: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+Pose: Mao direita no rosto
+
+
+Frame 1335: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+
+
+Frame 1350: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 1365: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 1380: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+
+
+Frame 1395: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 1410: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+
+
+Frame 1425: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 1440: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 1455: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 1470: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 1485: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 1500: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 1515: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 1530: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 1545: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 1560: Quantidade de faces: 1
+Face 1: Emoçao dominante: surprise
+
+
+Frame 1575: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 1590: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 1605: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 1620: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 1635: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 1650: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 1665: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 1680: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 1695: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 1710: Quantidade de faces: 1
+Face 1: Emoçao dominante: angry
+
+
+Frame 1725: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 1740: Quantidade de faces: 1
+Face 1: Emoçao dominante: angry
+
+
+Frame 1755: Quantidade de faces: 1
+Face 1: Emoçao dominante: angry
+
+
+Frame 1770: Quantidade de faces: 1
+Face 1: Emoçao dominante: fear
+
+
+Frame 1785: Quantidade de faces: 1
+Face 1: Emoçao dominante: fear
+
+
+Frame 1800: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+
+
+Frame 1815: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+
+
+Frame 1830: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+
+
+Frame 1845: Quantidade de faces: 1
+Face 1: Emoçao dominante: angry
+
+
+Frame 1860: Quantidade de faces: 1
+Face 1: Emoçao dominante: angry
+
+
+Frame 1875: Quantidade de faces: 1
+Face 1: Emoçao dominante: angry
+Pose: Mao esquerda no rosto
+
+
+Frame 1890: Quantidade de faces: 1
+Face 1: Emoçao dominante: angry
+Pose: Mao esquerda no rosto
+
+
+Frame 1905: Quantidade de faces: 1
+Face 1: Emoçao dominante: angry
+
+
+Frame 1920: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+Pose: Mao direita no rosto
+
+
+Frame 1935: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+Pose: Mao direita no rosto
+
+
+Frame 1950: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+
+
+Frame 1965: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+
+
+Frame 1980: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+
+
+Frame 1995: Quantidade de faces: 1
+Face 1: Emoçao dominante: angry
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 2010: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+
+
+Frame 2025: Quantidade de faces: 2
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: sad
+
+
+Frame 2040: Quantidade de faces: 2
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: neutral
+
+
+Frame 2055: Quantidade de faces: 2
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: surprise
+
+
+Frame 2070: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+Pose: Mao direita no rosto
+
+
+Frame 2085: Quantidade de faces: 2
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: fear
+Pose: Mao direita no rosto
+
+
+Frame 2100: Quantidade de faces: 2
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: fear
+Pose: Mao direita no rosto
+
+
+Frame 2115: Quantidade de faces: 2
+Face 1: Emoçao dominante: fear
+Face 2: Emoçao dominante: sad
+Pose: Mao direita no rosto
+
+
+Frame 2130: Quantidade de faces: 2
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: sad
+Pose: Mao direita no rosto
+
+
+Frame 2145: Quantidade de faces: 2
+Face 1: Emoçao dominante: fear
+Face 2: Emoçao dominante: neutral
+Pose: Mao direita no rosto
+
+
+Frame 2160: Quantidade de faces: 2
+Face 1: Emoçao dominante: fear
+Face 2: Emoçao dominante: sad
+Pose: Mao direita no rosto
+
+
+Frame 2175: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+Pose: Mao direita no rosto
+
+
+Frame 2190: Quantidade de faces: 1
+Face 1: Emoçao dominante: angry
+
+
+Frame 2205: Quantidade de faces: 1
+Face 1: Emoçao dominante: angry
+
+
+Frame 2220: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 2235: Quantidade de faces: 1
+Face 1: Emoçao dominante: angry
+
+
+Frame 2250: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+Pose: Mao esquerda levantada
+Pose: Mao direita levantada
+Pose: Mao esquerda no rosto
+
+
+Frame 2265: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 2280: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 2295: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+
+
+Frame 2310: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+Pose: Mao esquerda levantada
+
+
+Frame 2325: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+Pose: Mao esquerda levantada
+
+
+Frame 2340: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+Pose: Mao esquerda levantada
+
+
+Frame 2355: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+Pose: Mao esquerda no rosto
+
+
+Frame 2370: Quantidade de faces: 1
+Face 1: Emoçao dominante: fear
+Pose: Mao esquerda no rosto
+
+
+Frame 2385: Quantidade de faces: 1
+Face 1: Emoçao dominante: fear
+Pose: Mao esquerda no rosto
+
+
+Frame 2400: Quantidade de faces: 2
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: fear
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 2415: Quantidade de faces: 2
+Face 1: Emoçao dominante: fear
+Face 2: Emoçao dominante: fear
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 2430: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 2445: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 2460: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+Pose: Mao direita no rosto
+
+
+Frame 2475: Quantidade de faces: 2
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: sad
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 2490: Quantidade de faces: 2
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: neutral
+Pose: Mao direita no rosto
+
+
+Frame 2505: Quantidade de faces: 2
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: sad
+Pose: Mao direita no rosto
+
+
+Frame 2520: Quantidade de faces: 2
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: neutral
+Pose: Mao direita no rosto
+
+
+Frame 2535: Quantidade de faces: 2
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: neutral
+Pose: Mao direita no rosto
+
+
+Frame 2550: Quantidade de faces: 2
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: neutral
+Pose: Mao direita no rosto
+
+
+Frame 2565: Quantidade de faces: 2
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: neutral
+Pose: Mao direita no rosto
+
+
+Frame 2580: Quantidade de faces: 3
+Face 1: Emoçao dominante: fear
+Face 2: Emoçao dominante: neutral
+Face 3: Emoçao dominante: neutral
+Pose: Mao direita no rosto
+
+
+Frame 2595: Quantidade de faces: 3
+Face 1: Emoçao dominante: fear
+Face 2: Emoçao dominante: neutral
+Face 3: Emoçao dominante: fear
+Pose: Mao direita no rosto
+
+
+Frame 2610: Quantidade de faces: 4
+Face 1: Emoçao dominante: fear
+Face 2: Emoçao dominante: fear
+Face 3: Emoçao dominante: fear
+Face 4: Emoçao dominante: fear
+Pose: Mao direita no rosto
+
+
+Frame 2625: Quantidade de faces: 4
+Face 1: Emoçao dominante: fear
+Face 2: Emoçao dominante: happy
+Face 3: Emoçao dominante: fear
+Face 4: Emoçao dominante: sad
+Pose: Mao direita no rosto
+
+
+Frame 2640: Quantidade de faces: 3
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: fear
+Face 3: Emoçao dominante: fear
+
+
+Frame 2655: Quantidade de faces: 3
+Face 1: Emoçao dominante: fear
+Face 2: Emoçao dominante: sad
+Face 3: Emoçao dominante: fear
+
+
+Frame 2670: Quantidade de faces: 3
+Face 1: Emoçao dominante: fear
+Face 2: Emoçao dominante: sad
+Face 3: Emoçao dominante: fear
+Pose: Mao direita no rosto
+
+
+Frame 2685: Quantidade de faces: 3
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: neutral
+Face 3: Emoçao dominante: fear
+Pose: Mao direita no rosto
+
+
+Frame 2700: Quantidade de faces: 3
+Face 1: Emoçao dominante: fear
+Face 2: Emoçao dominante: fear
+Face 3: Emoçao dominante: sad
+Pose: Mao direita no rosto
+
+
+Frame 2715: Quantidade de faces: 3
+Face 1: Emoçao dominante: fear
+Face 2: Emoçao dominante: neutral
+Face 3: Emoçao dominante: fear
+Pose: Mao direita no rosto
+
+
+Frame 2730: Quantidade de faces: 4
+Face 1: Emoçao dominante: neutral
+Face 2: Emoçao dominante: fear
+Face 3: Emoçao dominante: sad
+Face 4: Emoçao dominante: fear
+Pose: Mao direita no rosto
+
+
+Frame 2745: Quantidade de faces: 4
+Face 1: Emoçao dominante: fear
+Face 2: Emoçao dominante: fear
+Face 3: Emoçao dominante: sad
+Face 4: Emoçao dominante: angry
+Pose: Mao direita no rosto
+
+
+Frame 2760: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 2775: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 2790: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 2805: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 2820: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 2835: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 2850: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 2865: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 2880: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 2895: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+Pose: Mao direita levantada
+Pose: Mao direita no rosto
+
+
+Frame 2910: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+Pose: Mao direita no rosto
+
+
+Frame 2925: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+Pose: Mao esquerda levantada
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 2940: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+
+
+Frame 2955: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+
+
+Frame 2970: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 2985: Quantidade de faces: 1
+Face 1: Emoçao dominante: neutral
+
+
+Frame 3000: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 3015: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 3030: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+
+
+Frame 3045: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+Pose: Mao esquerda levantada
+Pose: Mao direita levantada
+Pose: Mao direita no rosto
+
+
+Frame 3060: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+
+
+Frame 3075: Quantidade de faces: 1
+Face 1: Emoçao dominante: happy
+Pose: Mao esquerda levantada
+Pose: Mao esquerda no rosto
+
+
+Frame 3090: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+
+
+Frame 3105: Quantidade de faces: 1
+Face 1: Emoçao dominante: sad
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 3120: Quantidade de faces: 5
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: fear
+Face 3: Emoçao dominante: neutral
+Face 4: Emoçao dominante: fear
+Face 5: Emoçao dominante: fear
+Pose: Mao esquerda no rosto
+
+
+Frame 3135: Quantidade de faces: 5
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: sad
+Face 3: Emoçao dominante: neutral
+Face 4: Emoçao dominante: fear
+Face 5: Emoçao dominante: neutral
+Pose: Mao esquerda no rosto
+
+
+Frame 3150: Quantidade de faces: 5
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: neutral
+Face 3: Emoçao dominante: neutral
+Face 4: Emoçao dominante: sad
+Face 5: Emoçao dominante: sad
+
+
+Frame 3165: Quantidade de faces: 5
+Face 1: Emoçao dominante: neutral
+Face 2: Emoçao dominante: sad
+Face 3: Emoçao dominante: sad
+Face 4: Emoçao dominante: sad
+Face 5: Emoçao dominante: fear
+Pose: Mao esquerda no rosto
+
+
+Frame 3180: Quantidade de faces: 4
+Face 1: Emoçao dominante: neutral
+Face 2: Emoçao dominante: sad
+Face 3: Emoçao dominante: neutral
+Face 4: Emoçao dominante: sad
+Pose: Mao esquerda no rosto
+
+
+Frame 3195: Quantidade de faces: 4
+Face 1: Emoçao dominante: neutral
+Face 2: Emoçao dominante: sad
+Face 3: Emoçao dominante: fear
+Face 4: Emoçao dominante: fear
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 3210: Quantidade de faces: 3
+Face 1: Emoçao dominante: fear
+Face 2: Emoçao dominante: neutral
+Face 3: Emoçao dominante: angry
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 3225: Quantidade de faces: 4
+Face 1: Emoçao dominante: neutral
+Face 2: Emoçao dominante: sad
+Face 3: Emoçao dominante: happy
+Face 4: Emoçao dominante: fear
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 3240: Quantidade de faces: 5
+Face 1: Emoçao dominante: neutral
+Face 2: Emoçao dominante: fear
+Face 3: Emoçao dominante: happy
+Face 4: Emoçao dominante: fear
+Face 5: Emoçao dominante: fear
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 3255: Quantidade de faces: 4
+Face 1: Emoçao dominante: neutral
+Face 2: Emoçao dominante: angry
+Face 3: Emoçao dominante: sad
+Face 4: Emoçao dominante: sad
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 3270: Quantidade de faces: 4
+Face 1: Emoçao dominante: sad
+Face 2: Emoçao dominante: neutral
+Face 3: Emoçao dominante: fear
+Face 4: Emoçao dominante: sad
+Pose: Mao esquerda no rosto
+
+
+Frame 3285: Quantidade de faces: 4
+Face 1: Emoçao dominante: fear
+Face 2: Emoçao dominante: neutral
+Face 3: Emoçao dominante: fear
+Face 4: Emoçao dominante: sad
+Pose: Mao esquerda no rosto
+
+
+Frame 3300: Quantidade de faces: 1
+Face 1: Emoçao dominante: angry
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Frame 3315: Quantidade de faces: 1
+Face 1: Emoçao dominante: angry
+Pose: Mao esquerda no rosto
+Pose: Mao direita no rosto
+
+
+Total de frames analisados: 209
